@@ -5,6 +5,13 @@
 🌍 Lang: Russian, English <br/>
 </p>
 
+## Links
+<ul dir="auto">
+  <li>Youtube: <a href="https://www.youtube.com/c/HastG9" rel="nofollow">https://twitter.com/katfukui</a></li>
+  <li>Discord: <a href="https://discord.gg/r4YcNYj" rel="nofollow">https://tinykat.cafe</a></li>
+  <li>Telegram: <a href="https://t.me/hastvideo/" rel="nofollow">https://tinykat.cafe</a></li>
+</ul>
+
 ## Github stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=HastG9 alt=HastG9 /> </p>
 
