@@ -2,7 +2,8 @@
 🚩 Сountry: Russia 
 🌍 Lang: Russian, English
 </p>
-## Some of my Github Stats
+
+## Github stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=HastG9 alt=HastG9 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=HastG9&show_icons=true&include_all_commits=true)](https://github.com/HastG9/github-readme-stats)
