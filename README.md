@@ -7,9 +7,9 @@
 
 ## Links
 <ul dir="auto">
-  <li>Youtube: <a href="https://www.youtube.com/c/HastG9" rel="nofollow">https://twitter.com/katfukui</a></li>
-  <li>Discord: <a href="https://discord.gg/r4YcNYj" rel="nofollow">https://tinykat.cafe</a></li>
-  <li>Telegram: <a href="https://t.me/hastvideo/" rel="nofollow">https://tinykat.cafe</a></li>
+  <li>Youtube: <a href="https://www.youtube.com/c/HastG9" rel="nofollow">https://www.youtube.com/c/HastG9</a></li>
+  <li>Discord: <a href="https://discord.gg/r4YcNYj" rel="nofollow">https://discord.gg/r4YcNYj</a></li>
+  <li>Telegram: <a href="https://t.me/hastvideo" rel="nofollow">https://t.me/hastvideo</a></li>
 </ul>
 
 ## Github stats
