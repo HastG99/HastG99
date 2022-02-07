@@ -1,4 +1,6 @@
-## Hey 👋, [![Github Badge](https://img.shields.io/badge/-HastG9-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HastG9/)](https://www.github.com/HastG9/) <p align='left'>⚙ Programmer (Java, NodeJS, C/C++) 
+## Hi here 👋, [![Github Badge](https://img.shields.io/badge/-HastG9-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HastG9/)](https://www.github.com/HastG9/) <p align='left'>
+I'm a Hast
+⚙ Programmer (Java, NodeJS, C/C++) 
 🚩 Сountry: Russia 
 🌍 Lang: Russian, English
 </p>
