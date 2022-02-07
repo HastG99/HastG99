@@ -1,8 +1,8 @@
 ## Hi here 👋, [![Github Badge](https://img.shields.io/badge/-HastG9-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HastG9/)](https://www.github.com/HastG9/) <p align='left'>
-I'm a Hast
-⚙ Programmer (Java, NodeJS, C/C++) 
-🚩 Сountry: Russia 
-🌍 Lang: Russian, English
+I'm a Hast <br/>
+⚙ Programmer (Java, NodeJS, C/C++) <br/>
+🚩 Сountry: Russia <br/>
+🌍 Lang: Russian, English <br/>
 </p>
 
 ## Github stats
