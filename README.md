@@ -15,5 +15,5 @@
 ## Github stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=HastG9 alt=HastG9 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=HastG9&show_icons=true&include_all_commits=true)](https://github.com/HastG9/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HastG9&layout=compact)](https://github.com/HastG9/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=HastG9&show_icons=true&include_all_commits=true)](https://github.com/HastG99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HastG9&layout=compact)](https://github.com/HastG99/github-readme-stats)
