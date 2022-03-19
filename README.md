@@ -1,5 +1,5 @@
 ## Hi here 👋, [![Github Badge](https://img.shields.io/badge/-HastG99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HastG99/)](https://www.github.com/HastG99/) <p align='left'>
-👤 I'm a Hast. <br/>
+👤 I'm Hast. <br/>
 ⚙ Programmer (Java, NodeJS, C/C++) <br/>
 🚩 Сountry: Russia <br/>
 🌍 Lang: Russian, English <br/>
