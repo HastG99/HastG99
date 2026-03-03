@@ -1,6 +1,8 @@
 ## Hi here 👋, [![Github Badge](https://img.shields.io/badge/-HastG99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HastG99/)](https://www.github.com/HastG99/) <p align='left'>
 👤 I'm Hast. <br/>
-⚙ Programmer (Java, NodeJS, C/C++) <br/>
+⚙ Software Architect / Junior Project Manager <br/>
+💻 Tech stack: Java, NodeJS, C++, C# <br/>
+🌱 Learning: Project Management, Kubernetes, Kafka, Redis, RabbitMQ <br/>
 🚩 Сountry: Russia <br/>
 🌍 Lang: Russian, English <br/>
 </p>
