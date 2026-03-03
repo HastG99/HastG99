@@ -1,10 +1,15 @@
-## Hi here 👋, [![Github Badge](https://img.shields.io/badge/-HastG99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HastG99/)](https://www.github.com/HastG99/) <p align='left'>
-👤 I'm Hast. <br/>
+# Hi here 👋, [![Github Badge](https://img.shields.io/badge/-HastG99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HastG99/)](https://www.github.com/HastG99/) <p align='left'>
+## 👤 I'm Hast. <br/>
 ⚙ Software Architect / Junior Project Manager <br/>
-💻 Tech stack: Java, NodeJS, C++, C# <br/>
-🌱 Learning: Project Management, Kubernetes, Kafka, Redis, RabbitMQ <br/>
-🚩 Сountry: Russia <br/>
+🚩 Сountry: Russia 🇷🇺 <br/>
 🌍 Lang: Russian, English <br/>
+
+## 💻 Tech stack
+[![Stack](https://skillicons.dev/icons?i=linux,docker,bash,nginx,java,spring,hibernate,c,cpp,cmake,cs,dotnet,nodejs,express)](https://skillicons.dev)
+
+
+## 🌱 Learning
+[![Learning](https://skillicons.dev/icons?i=kubernetes,react,mongodb,redis,rabbitmq,kafka,kotlin)](https://skillicons.dev)
 </p>
 
 ## Links
