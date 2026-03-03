@@ -23,9 +23,3 @@
 
 ## Github stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=HastG99 alt=HastG9 /> </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HastG99)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HastG99&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HastG99)](https://github.com/anuraghazra/github-readme-stats)
